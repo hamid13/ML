@@ -7,8 +7,10 @@ Gradient descent is an iterative optimization algorithm to find the minimum of a
 
 
 
-<h3>Algorithm definition</h3>
-![Alt text](/Users/hamidhabbi/PycharmProjects/ML/Data/GradientDescentForLinearRegression.png?raw=true "Title")
+<h3>Algorithm</h3>
+Check this link out
+https://towardsdatascience.com/linear-regression-using-gradient-descent-97a6c8700931
+
 
 
 The point of all this is that if we start with a guess for our hypothesis and then repeatedly apply these gradient descent equations, our hypothesis will become more and more accurate.
@@ -29,3 +31,4 @@ Indeed, J is a convex quadratic function. Here is an example of gradient descent
 4. Y is list of output
  
 
+ 
